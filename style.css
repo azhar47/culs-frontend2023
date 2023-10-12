@@ -86,3 +86,7 @@ body {
   align-items: center;
   font-size: 3rem;
 }
+.chapter section h2{
+  color: blueviolet;
+}
+  
