@@ -41,11 +41,11 @@ body {
 }
 
 .icon.previous {
-  background-image: url("/previous.svg");
+  background-image: url("previous.svg");
 }
 
 .icon.next {
-  background-image: url("/next.svg");
+  background-image: url("next.svg");
 }
 
 
